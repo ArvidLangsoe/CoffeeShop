@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <customers id="100" name="Benny"/>
+  <shops name="Corner Shop"/>
+  <drink_orders/>
+  <drinks shop="Corner Shop" name="Caf Mocha" description=" "/>
+  <drinks shop="Corner Shop" name="Caffe Latte" description=" "/>
+  <drinks shop="Corner Shop" name="Cappuccino" description=" "/>
+  <drinks shop="Corner Shop" name="Espresso" description=" "/>
+  <orders/>
+
+</dataset>
